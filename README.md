@@ -24,22 +24,22 @@ Materials for electricity merit badge
 9. Do the following:
     1. Read an electric meter and, using your family's electric bill, determine the energy cost from the meter readings.
     2. Discuss with your counselor five ways in which your family can conserve energy.
-10. Explain the following electrical terms:
-   1. volt
-   2. ampere
-   3. watt
-   4. ohm
-   5. resistance
-   6. potential difference
-   7. rectifier
-   8. rheostat
-   9. conductor
-   10. ground
-   11. circuit
-   12. short circuit
+10. Explain the following electrical terms
+    1. volt
+    2. ampere
+    3. watt
+    4. ohm
+    5. resistance
+    6. potential difference
+    7. rectifier
+    8. rheostat
+    9. conductor
+    10. ground
+    11. circuit
+    12. short circuit
 11. Do any TWO of the following:
-   1. Connect a buzzer, bell, or light with a battery. Have a key or switch in the line.
-   2. Make and run a simple electric motor (not from a kit).
-   3. Build a simple rheostat. Show that it works.
-   4. Build a single-pole, double-throw switch. Show that it works.
-   5. Hook a model electric train layout to a house circuit. Tell how it works.
+    1. Connect a buzzer, bell, or light with a battery. Have a key or switch in the line.
+    2. Make and run a simple electric motor (not from a kit).
+    3. Build a simple rheostat. Show that it works.
+    4. Build a single-pole, double-throw switch. Show that it works.
+    5. Hook a model electric train layout to a house circuit. Tell how it works.
