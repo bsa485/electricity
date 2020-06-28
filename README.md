@@ -22,24 +22,24 @@ Materials for electricity merit badge
 1. Explain what overloading an electric circuit means. Tell what you have done to make sure your home circuits are not overloaded.
 1. Make a floor plan wiring diagram of the lights, switches, and outlets for a room in your home. Show which fuse or circuit breaker protects each one.
 1. Do the following:
-  1. Read an electric meter and, using your family's electric bill, determine the energy cost from the meter readings.
-  1. Discuss with your counselor five ways in which your family can conserve energy.
+    1. Read an electric meter and, using your family's electric bill, determine the energy cost from the meter readings.
+    1. Discuss with your counselor five ways in which your family can conserve energy.
 1. Explain the following electrical terms:
-  1.  volt
-  1. 	ampere
-  1. 	watt
-  1.  ohm
-  1.	resistance
-  1.	potential difference
-  1.  rectifier
-  1. 	rheostat
-  1. 	conductor
-  1. ground
-  1. circuit
-  1. short circuit
+   1. volt
+   1. ampere
+   1. watt
+   1. ohm
+   1. resistance
+   1. potential difference
+   1. rectifier
+   1. rheostat
+   1. conductor
+   1. ground
+   1. circuit
+   1. short circuit
 1.  Do any TWO of the following:
-  1. Connect a buzzer, bell, or light with a battery. Have a key or switch in the line.
-  1. Make and run a simple electric motor (not from a kit).
-  1. Build a simple rheostat. Show that it works.
-  1. Build a single-pole, double-throw switch. Show that it works.
-  1. Hook a model electric train layout to a house circuit. Tell how it works.
+   1. Connect a buzzer, bell, or light with a battery. Have a key or switch in the line.
+   1. Make and run a simple electric motor (not from a kit).
+   1. Build a simple rheostat. Show that it works.
+   1. Build a single-pole, double-throw switch. Show that it works.
+   1. Hook a model electric train layout to a house circuit. Tell how it works.
